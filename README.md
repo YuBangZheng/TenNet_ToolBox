@@ -1,3 +1,12 @@
+
+<p align="center">
+    <br>
+    <img src="TenNet.png" width="100%"/>
+    <br>
+</p>
+
+
+
 # Tensor Network Toolbox (Matlab)
 
 Yu-Bang Zheng, Xi-Le Zhao, Qibin Zhao, Junjun Pan, Michael K. Ng, Heng-Chao Li, and Ting-Zhu Huang
