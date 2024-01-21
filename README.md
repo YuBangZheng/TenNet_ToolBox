@@ -1,6 +1,6 @@
 # Tensor Network Toolbox (Matlab)
 
-Yu-Bang Zheng, Xi-Le Zhao, Qibin Zhao, Junjun Pan, Michael K. Ng, Heng-Chao Li, and Ting-Zhu Huang
+Yu-Bang Zheng, Xi-Le Zhao, Qibin Zhao, Wen-Jie Zheng, and Ting-Zhu Huang
 
 <p align="center">
     <br>
